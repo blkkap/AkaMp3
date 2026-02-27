@@ -1,0 +1,8 @@
+build/
+venv/
+dist/
+AkaMp3.spec
+main.spec
+MusicMate.spec
+redEye.icns
+__pycache__/
