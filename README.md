@@ -17,7 +17,7 @@
 
     6. Start download 🚀
 
-```NOTE: After downloads are completed do not remove, the program will reallocate files into respected fodlers```
+```NOTE: After downloads are completed do not remove, the program will reallocate files into respected folders```
 
 
 # THIS IS FOR EDUCATIONAL PURPOSE, SHOWING HOW THINGS WORK BEHIND THE SCENE OF IOT AND HOW TO MOVE FILES FROM ONE DEVICE TO LETS SAY A MP3.....
